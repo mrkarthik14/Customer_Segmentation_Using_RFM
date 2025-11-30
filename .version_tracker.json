@@ -1,0 +1,10 @@
+{
+  "track/notebooks": {
+    "major": 1,
+    "minor": 1
+  },
+  "track/root": {
+    "major": 1,
+    "minor": 0
+  }
+}
